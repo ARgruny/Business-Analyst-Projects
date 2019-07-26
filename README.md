@@ -1,3 +1,3 @@
 # Business Analyst Nanodegree
- Projects & Reports from the Business Analyst Nanodegree
- All Projects were solved using the ANalytical tools SQL, alteryx and Tableau
+ projects & reports from the business analyst nanodegree
+ All projects were solved using the analytical tools SQL, alteryx and Tableau
